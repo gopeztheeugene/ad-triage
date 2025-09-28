@@ -11,3 +11,7 @@ _*Triages the current working domain and the forest it is joined to.<br />
 *Enumerates Foreign Security Principals, which are AD objects from another forest.<br />
 *Enumerates AD Replication subnets.<br />
 *Enumerates dhcp servers and associated subnets._
+
+
+***To get full results, I recommend running the script on a domain controller that is not segmented from PDCs on trusting domains.
+***Includes a b64 encoded one liner(incase you can run lines with no character limits).
