@@ -13,5 +13,6 @@ _*Triages the current working domain and the forest it is joined to.<br />
 *Enumerates dhcp servers and associated subnets._
 
 
-***To get full results, I recommend running the script on a domain controller that is not segmented from the PDCs on trusting domains.<br />
-***Includes a b64 encoded one liner(incase you can run lines with no character limits).
+Notes:<br />
+To get full results, I recommend running the script on a domain controller that is not segmented from the PDCs on trusting domains.<br />
+Includes a b64 encoded one liner(incase you can run lines with no character limits).
