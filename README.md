@@ -4,6 +4,6 @@ Features include the following:
 >*Enumerates the trusts(both outbound and inbound) currently established within the working domain.<br />
 >*Enumerates the universal groups and it's members.<br />
 >*Finds the Enterprise admins group and enumerates it's members.<br />
->*Enumerates Foreign Security Principals, which are AD objects from another forest.
->*Enumerates AD Replication subnets
->*Enumerates dhcp servers and associated subnets
+>*Enumerates Foreign Security Principals, which are AD objects from another forest.<br />
+>*Enumerates AD Replication subnets.<br />
+>*Enumerates dhcp servers and associated subnets.
