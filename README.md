@@ -3,10 +3,10 @@ Domain trusts are links from one domain to another(which may or may not be on an
 
 
 **Features include the following:**<br />
-*Triages the current working domain and the forest it is joined to.<br />
+_*Triages the current working domain and the forest it is joined to.<br />
 *Enumerates the trusts(outbound, inbound and 2-way) currently established within the working domain.<br />
 *Enumerates the universal groups and it's members.<br />
 *Finds the Enterprise admins group and enumerates it's members.<br />
 *Enumerates Foreign Security Principals, which are AD objects from another forest.<br />
 *Enumerates AD Replication subnets.<br />
-*Enumerates dhcp servers and associated subnets.
+*Enumerates dhcp servers and associated subnets._
